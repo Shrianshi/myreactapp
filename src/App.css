@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.MyStyle{
+  color:blue;
+
+
+
+}
+.redBg{
+  background-color: rgba(84, 59, 59, 0.53);
+}
+.blueBg{
+  background-color: blue;
+}
+
+img{
+  width:200px;
+  height:100px;
+  border-radius: 300px;
+  transition: transform 0.3s ease;
+}
+img:hover{
+  transform: scale(1.2);
+}
+table{
+  position: relative;
+  
+  
+}
+table:hover{
+  background-color: gray;;
+}
+.padding{
+  padding:100px;
+}
+
